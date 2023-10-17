@@ -2,7 +2,7 @@
   "course": [
     {
       "id": 1,
-      "image": "educate-server/src/assets/images/img5.jpg",
+      "image": "https://www.training.com.au/wp-content/uploads/science-stem-feature.png",
       "count": "71 lesson",
       "rate": "4.8",
       "title": "Education Science Title",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "image": "educate-server/src/assets/images/img6.jpg",
+      "image": "https://www.vec.ca/wp-content/uploads/2019/03/English-Language-Level-System.jpg",
       "count": "81 lesson",
       "rate": "3.8",
       "title": "Education English Title",
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "image": "educate-server/src/assets/images/img2.jpg",
+      "image": "https://www.scalevp.com/sites/default/files/designbig.jpg",
       "count": "47 lesson",
       "rate": "3.7",
       "title": "Education Arts Title",
@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "image": "educate-server/src/assets/images/img1.jpg",
+      "image": "https://i0.wp.com/www.additudemag.com/wp-content/uploads/2021/09/GettyImages-1044168372.jpg",
       "count": "55 lesson",
       "rate": "5",
       "title": "Education Math Title",
@@ -40,19 +40,10 @@
       "price": 69.79,
       "link": "Learn More"
     },
-    {
-      "id": 5,
-      "image": "educate-server/src/assets/images/img13.jpg",
-      "count": "63 lesson",
-      "rate": "4.6",
-      "title": "Education Arabic  Title",
-      "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. t",
-      "price": 84.00,
-      "link": "Learn More"
-    },
+   
     {
       "id": 6,
-      "image": "educate-server/src/assets/images/img3-2.jpg",
+      "image": "https://miro.medium.com/v2/resize:fit:1024/1*OohqW5DGh9CQS4hLY5FXzA.png",
       "count": "37 lesson",
       "rate": "4.2",
       "title": "Education Program Title",
@@ -62,7 +53,7 @@
     },
     {
       "id": 7,
-      "image": "educate-server/src/assets/images/img4.jpg",
+      "image": "https://www.rwjbh.org/images/fruits-veggies-blog-img-540x320px.jpg",
       "count": "33 lesson",
       "rate": "398",
       "title": "Education Sport Title",
@@ -72,17 +63,17 @@
     },
     {
       "id": 8,
-      "image": "educate-server/src/assets/images/img7.jpg",
+      "image": "https://img.freepik.com/premium-vector/enjoying-listening-music-concept_198530-1387.jpg",
       "count": "62 lesson",
       "rate": "3.6",
-      "title": "Education Writing Title",
+      "title": "Education Music Title",
       "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. t",
       "price": 80.95,
       "link": "Learn More"
     },
     {
       "id": 9,
-      "image": "educate-server/src/assets/images/img8.jpg",
+      "image": "https://www.dundryprimary.co.uk/wp-content/uploads/2021/11/istockphoto-1092170968-612x612-1.jpg",
       "count": "28 lesson",
       "rate": "3.9",
       "title": "Education Reading Title",
@@ -95,7 +86,7 @@
   "students": [
     {
       "id": 1,
-      "image": "educate-server/src/assets/images/st1.jpg",
+      "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
       "title": "Miss",
       "FirstName": "Rama",
       "LastName": "Ali",
@@ -106,7 +97,7 @@
     },
     {
       "id": 2,
-      "image": "educate-server/src/assets/images/student2.jpg",
+      "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
       "title": "Mrs",
       "FirstName": "Omar",
       "LastName": "Salem",
@@ -118,7 +109,7 @@
     
     {
       "id": 3,
-      "image": "educate-server/src/assets/images/student3.jpg",
+      "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
       "title": "Miss",
       "FirstName": "Aya",
       "LastName": "Annos",
@@ -129,7 +120,7 @@
     },
     {
       "id": 4,
-      "image": "educate-server/src/assets/images/student4.jpg",
+      "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
       "title": "Miss",
       "FirstName": "Sham",
       "LastName": "Ahmed",
@@ -140,7 +131,7 @@
     },
     {
       "id": 5,
-      "image": "educate-server/src/assets/images/student5.jpg",
+      "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
       "title": "Mrs",
       "FirstName": "Karem",
       "LastName": "Sabri",
@@ -151,7 +142,7 @@
     },
     {
       "id": 6,
-      "image": "educate-server/src/assets/images/student6.jpg",
+      "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
       "title": "Mrs",
       "FirstName": "Mohammad",
       "LastName": "Raai",
@@ -162,7 +153,7 @@
     },
     {
       "id": 7,
-      "image": "educate-server/src/assets/images/student7.jpg",
+      "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
       "title": "Mrs",
       "FirstName": "Ghaith",
       "LastName": "Shaar",
@@ -173,7 +164,7 @@
     },
     {
       "id": 8,
-      "image": "educate-server/src/assets/images/student8.jpg",
+      "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
       "title": "Miss",
       "FirstName": "Safa",
       "LastName": "Rajab",
@@ -184,7 +175,7 @@
     },
     {
       "id": 9,
-      "image": "educate-server/src/assets/images/student9.jpg",
+      "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
       "title": "Mrs",
       "FirstName": "Sami",
       "LastName": "Eskandar",
@@ -195,7 +186,7 @@
     },
     {
       "id": 10,
-      "image": "educate-server/src/assets/images/student10.jpg",
+      "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
       "title": "Miss",
       "FirstName": "Lojain",
       "LastName": "Alaa",
@@ -211,7 +202,7 @@
   "teachers": [
     {
       "id": 1,
-      "image": "educate-server/src/assets/images/teach1.jpg",
+      "image": "https://thumbs.dreamstime.com/b/teacher-9707054.jpg",
       "Name": "ALI MOHAMMAD",
       "specialization":"Math",
       "phone": "+963 935 124 214",
@@ -220,7 +211,7 @@
     },
     {
       "id": 2,
-      "image": "educate-server/src/assets/images/teach2.jpg",
+      "image": "https://t3.ftcdn.net/jpg/02/02/52/36/360_F_202523652_NqEMp50IkORLXlCmJXqgqRBLMW8xBHMP.jpg",
       "Name": "RAMA SAEED",
       "specialization":"Arabic",
       "phone": "+963 975 714 504",
@@ -230,7 +221,7 @@
     
     {
       "id": 3,
-      "image": "educate-server/src/assets/images/teach3.jpg",
+      "image": "https://www.topeducationdegrees.org/wp-content/uploads/2016/01/teacher-3-300x177.jpg",
       "Name": "MARWA SULIMAN",
       "specialization":"Science",
       "phone": "+963 971 457 110",
@@ -239,7 +230,7 @@
     },
     {
       "id": 4,
-      "image": "educate-server/src/assets/images/teach4.jpg",
+      "image": "https://t3.ftcdn.net/jpg/02/65/18/30/360_F_265183061_NkulfPZgRxbNg3rvYSNGGwi0iD7qbmOp.jpg",
       "Name": "JULIA RAMI",
       "specialization":"English",
       "phone": "+963 925 784 500",
@@ -248,7 +239,7 @@
     },
     {
       "id": 5,
-      "image": "educate-server/src/assets/images/teach5.jpg",
+      "image": "https://www.teachertrainingasia.com/images/C-pre-school-AM.jpg",
       "Name": "AHMED MAHMOUD",
       "specialization":"Arts",
       "phone": "+963 940 724 210",
@@ -257,7 +248,7 @@
     },
     {
       "id": 6,
-      "image": "educate-server/src/assets/images/teach6.jpg",
+      "image": "https://static.jobscan.co/blog/uploads/jobs-for-former-teachers.png",
       "Name": "SALAM MASRI",
       "specialization":"English",
       "phone": "+963 945 124 700",
@@ -266,7 +257,7 @@
     },
     {
       "id": 7,
-      "image": "educate-server/src/assets/images/teach7.jpg",
+      "image": "https://www.wgu.edu/content/dam/web-sites/blog-newsroom/blog/images/national/2022/may/teaching-children.jpg",
       "Name": "MAZEN ZENO",
       "specialization":"Program",
       "phone": "+963 944 887 207",
@@ -275,7 +266,7 @@
     },
     {
       "id": 8,
-      "image": "educate-server/src/assets/images/teach8.jpg",
+      "image": "https://media.sciencephoto.com/f0/28/38/95/f0283895-800px-wm.jpg",
       "Name": "SHADI OMAR",
       "specialization":"France",
       "phone": "+963 945 545 545",
