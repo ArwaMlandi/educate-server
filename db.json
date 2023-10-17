@@ -2,7 +2,7 @@
   "course": [
     {
       "id": 1,
-      "image": "src/assets/images/img5.jpg",
+      "image": "educate-server/src/assets/images/img5.jpg",
       "count": "71 lesson",
       "rate": "4.8",
       "title": "Education Science Title",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "image": "src/assets/images/img6.jpg",
+      "image": "educate-server/src/assets/images/img6.jpg",
       "count": "81 lesson",
       "rate": "3.8",
       "title": "Education English Title",
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "image": "src/assets/images/img2.jpg",
+      "image": "educate-server/src/assets/images/img2.jpg",
       "count": "47 lesson",
       "rate": "3.7",
       "title": "Education Arts Title",
@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "image": "src/assets/images/img1.jpg",
+      "image": "educate-server/src/assets/images/img1.jpg",
       "count": "55 lesson",
       "rate": "5",
       "title": "Education Math Title",
@@ -42,7 +42,7 @@
     },
     {
       "id": 5,
-      "image": "src/assets/images/img13.jpg",
+      "image": "educate-server/src/assets/images/img13.jpg",
       "count": "63 lesson",
       "rate": "4.6",
       "title": "Education Arabic  Title",
@@ -52,7 +52,7 @@
     },
     {
       "id": 6,
-      "image": "src/assets/images/img3-2.jpg",
+      "image": "educate-server/src/assets/images/img3-2.jpg",
       "count": "37 lesson",
       "rate": "4.2",
       "title": "Education Program Title",
@@ -62,7 +62,7 @@
     },
     {
       "id": 7,
-      "image": "src/assets/images/img4.jpg",
+      "image": "educate-server/src/assets/images/img4.jpg",
       "count": "33 lesson",
       "rate": "398",
       "title": "Education Sport Title",
@@ -72,7 +72,7 @@
     },
     {
       "id": 8,
-      "image": "src/assets/images/img7.jpg",
+      "image": "educate-server/src/assets/images/img7.jpg",
       "count": "62 lesson",
       "rate": "3.6",
       "title": "Education Writing Title",
@@ -82,7 +82,7 @@
     },
     {
       "id": 9,
-      "image": "src/assets/images/img8.jpg",
+      "image": "educate-server/src/assets/images/img8.jpg",
       "count": "28 lesson",
       "rate": "3.9",
       "title": "Education Reading Title",
@@ -95,7 +95,7 @@
   "students": [
     {
       "id": 1,
-      "image": "src/assets/images/st1.jpg",
+      "image": "educate-server/src/assets/images/st1.jpg",
       "title": "Miss",
       "FirstName": "Rama",
       "LastName": "Ali",
@@ -106,7 +106,7 @@
     },
     {
       "id": 2,
-      "image": "src/assets/images/student2.jpg",
+      "image": "educate-server/src/assets/images/student2.jpg",
       "title": "Mrs",
       "FirstName": "Omar",
       "LastName": "Salem",
@@ -118,7 +118,7 @@
     
     {
       "id": 3,
-      "image": "src/assets/images/student3.jpg",
+      "image": "educate-server/src/assets/images/student3.jpg",
       "title": "Miss",
       "FirstName": "Aya",
       "LastName": "Annos",
@@ -129,7 +129,7 @@
     },
     {
       "id": 4,
-      "image": "src/assets/images/student4.jpg",
+      "image": "educate-server/src/assets/images/student4.jpg",
       "title": "Miss",
       "FirstName": "Sham",
       "LastName": "Ahmed",
@@ -140,7 +140,7 @@
     },
     {
       "id": 5,
-      "image": "src/assets/images/student5.jpg",
+      "image": "educate-server/src/assets/images/student5.jpg",
       "title": "Mrs",
       "FirstName": "Karem",
       "LastName": "Sabri",
@@ -151,7 +151,7 @@
     },
     {
       "id": 6,
-      "image": "src/assets/images/student6.jpg",
+      "image": "educate-server/src/assets/images/student6.jpg",
       "title": "Mrs",
       "FirstName": "Mohammad",
       "LastName": "Raai",
@@ -162,7 +162,7 @@
     },
     {
       "id": 7,
-      "image": "src/assets/images/student7.jpg",
+      "image": "educate-server/src/assets/images/student7.jpg",
       "title": "Mrs",
       "FirstName": "Ghaith",
       "LastName": "Shaar",
@@ -173,7 +173,7 @@
     },
     {
       "id": 8,
-      "image": "src/assets/images/student8.jpg",
+      "image": "educate-server/src/assets/images/student8.jpg",
       "title": "Miss",
       "FirstName": "Safa",
       "LastName": "Rajab",
@@ -184,7 +184,7 @@
     },
     {
       "id": 9,
-      "image": "src/assets/images/student9.jpg",
+      "image": "educate-server/src/assets/images/student9.jpg",
       "title": "Mrs",
       "FirstName": "Sami",
       "LastName": "Eskandar",
@@ -195,7 +195,7 @@
     },
     {
       "id": 10,
-      "image": "src/assets/images/student10.jpg",
+      "image": "educate-server/src/assets/images/student10.jpg",
       "title": "Miss",
       "FirstName": "Lojain",
       "LastName": "Alaa",
@@ -211,7 +211,7 @@
   "teachers": [
     {
       "id": 1,
-      "image": "src/assets/images/teach1.jpg",
+      "image": "educate-server/src/assets/images/teach1.jpg",
       "Name": "ALI MOHAMMAD",
       "specialization":"Math",
       "phone": "+963 935 124 214",
@@ -220,7 +220,7 @@
     },
     {
       "id": 2,
-      "image": "src/assets/images/teach2.jpg",
+      "image": "educate-server/src/assets/images/teach2.jpg",
       "Name": "RAMA SAEED",
       "specialization":"Arabic",
       "phone": "+963 975 714 504",
@@ -230,7 +230,7 @@
     
     {
       "id": 3,
-      "image": "src/assets/images/teach3.jpg",
+      "image": "educate-server/src/assets/images/teach3.jpg",
       "Name": "MARWA SULIMAN",
       "specialization":"Science",
       "phone": "+963 971 457 110",
@@ -239,7 +239,7 @@
     },
     {
       "id": 4,
-      "image": "src/assets/images/teach4.jpg",
+      "image": "educate-server/src/assets/images/teach4.jpg",
       "Name": "JULIA RAMI",
       "specialization":"English",
       "phone": "+963 925 784 500",
@@ -248,7 +248,7 @@
     },
     {
       "id": 5,
-      "image": "src/assets/images/teach5.jpg",
+      "image": "educate-server/src/assets/images/teach5.jpg",
       "Name": "AHMED MAHMOUD",
       "specialization":"Arts",
       "phone": "+963 940 724 210",
@@ -257,7 +257,7 @@
     },
     {
       "id": 6,
-      "image": "src/assets/images/teach6.jpg",
+      "image": "educate-server/src/assets/images/teach6.jpg",
       "Name": "SALAM MASRI",
       "specialization":"English",
       "phone": "+963 945 124 700",
@@ -266,7 +266,7 @@
     },
     {
       "id": 7,
-      "image": "src/assets/images/teach7.jpg",
+      "image": "educate-server/src/assets/images/teach7.jpg",
       "Name": "MAZEN ZENO",
       "specialization":"Program",
       "phone": "+963 944 887 207",
@@ -275,7 +275,7 @@
     },
     {
       "id": 8,
-      "image": "src/assets/images/teach8.jpg",
+      "image": "educate-server/src/assets/images/teach8.jpg",
       "Name": "SHADI OMAR",
       "specialization":"France",
       "phone": "+963 945 545 545",
